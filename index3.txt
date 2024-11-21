@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello from index 3 
+=======
+hello from index3 hello from develop 3
+>>>>>>> qa
